@@ -1,5 +1,6 @@
 # Learn about HTML 
- I decide to use this repository to record my way of learn html
+ I decide to use this repository to record my way of learn html.
+ 
  If you want to read the correct format file ,please see the pdf in the main.THANKS.
 
 ### The basic and background 
